@@ -46,7 +46,6 @@ When I'm not coding, I'm sharing my journey and creating content on tech and stu
 <br/>
 
 ## 📊 GitHub Stats
-<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiJwalitha-09&show_icons=true&theme=tokyonight)
 
@@ -54,16 +53,11 @@ When I'm not coding, I'm sharing my journey and creating content on tech and stu
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJwalitha-09&layout=compact&theme=tokyonight)
 
-</div>
-
 <br/>
 
 ## 🏆 GitHub Trophies
-<div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SaiJwalitha-09&theme=onedark)
-
-</div>
 
 <br/>
 
