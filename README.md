@@ -45,24 +45,6 @@ When I'm not coding, I'm sharing my journey and creating content on tech and stu
 
 <br/>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiJwalitha-09&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=SaiJwalitha-09&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJwalitha-09&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiJwalitha-09&theme=onedark" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 <div align="center">
   <h3>Thanks for visiting my profile! Let's build something amazing together. 🚀</h3>
 </div>
