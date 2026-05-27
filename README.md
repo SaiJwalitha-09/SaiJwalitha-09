@@ -1,18 +1,13 @@
 I want you to transform my GitHub profile README.
 Do NOT ask me any questions. Just execute everything.
 MY DETAILS:
-- Name: [YOUR NAME]
-- Role: [YOUR ROLE]
-- Experience: [X] years
-- Tech Stack: [LIST YOUR TECHNOLOGIES]
-- YouTube: [YOUR YOUTUBE URL] - [X] subscribers
-- Medium: [YOUR MEDIUM URL] - [X] followers
-- Instagram: [YOUR INSTAGRAM URL] - [X] followers
-- LinkedIn: [YOUR LINKEDIN URL]
-- Portfolio: [YOUR WEBSITE URL]
+- Name: [B.Sai Jwalitha]
+- Role: [B.Tech 4th year]
+- Experience: [0] years
+- LinkedIn: [www.linkedin.com/in/sai-jwalitha-bellagubba-78679b34a]
 INSTRUCTIONS - DO ALL OF THIS AUTOMATICALLY:
 1. Go to my GitHub profile repository
- (github.com/[username]/[username])
+ (github.com/[SaiJwalitha-09]/[SaiJwalitha-09])
  Open the README.md file
  Click Edit (pencil icon)
 2. Delete ALL existing content
