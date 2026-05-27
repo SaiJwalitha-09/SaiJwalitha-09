@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SaiJwalitha-09&color=blueviolet" alt="Profile Views" />
 
-  <h1>Hi there, I'm B.Sai Jwalitha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi there, I'm Sai Jwalitha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=B.Tech+4th+Year+Student;Data+Engineering+%26+ML+Explorer;Software+Development+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=B.Tech+Student;Data+Engineering+%26+ML+Explorer;Software+Development+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 ## 🙋‍♀️ About Me
-I'm a confident and driven B.Tech 4th-year student specializing in Computer Science, Data Analytics, and Software Development. I love diving deep into data lifecycles and exploring machine learning architecture. 
+I'm a confident and driven B.Tech student specializing in Computer Science, Data Analytics, and Software Development. I love diving deep into data lifecycles and exploring machine learning architecture. 
 
 When I'm not coding, I'm sharing my journey and creating content on tech and student life!
 - 🔭 I’m currently working on projects involving **Data Engineering, Hadoop, and AI**.
@@ -47,18 +47,22 @@ When I'm not coding, I'm sharing my journey and creating content on tech and stu
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiJwalitha-09&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=SaiJwalitha-09&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJwalitha-09&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiJwalitha-09&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SaiJwalitha-09&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJwalitha-09&layout=compact&theme=tokyonight)
+
 </div>
 
 <br/>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaiJwalitha-09&theme=onedark" alt="GitHub Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SaiJwalitha-09&theme=onedark)
+
 </div>
 
 <br/>
