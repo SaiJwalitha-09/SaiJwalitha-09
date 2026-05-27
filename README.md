@@ -11,37 +11,34 @@
 <br/>
 
 ## 🙋‍♀️ About Me
-I'm a confident and driven B.Tech student specializing in Computer Science, Data Analytics, and Software Development. I love diving deep into data lifecycles and exploring machine learning architecture. 
+I'm a confident and driven B.Tech student specializing in Computer Science, Data Analytics, and Software Development. I love diving deep into data lifecycles and exploring artificial intelligence. 
 
-When I'm not coding, I'm sharing my journey and creating content on tech and student life!
-- 🔭 I’m currently working on projects involving **Data Engineering, Hadoop, and AI**.
+- 🔭 I’m currently working on projects involving **Data Engineering and AI**.
 - 🌱 I’m currently prepping for **GATE 2026** and advancing my knowledge in **Quantum Computing**.
 - 👯 I’m looking to collaborate on **open-source AI/ML projects**.
 - ⚡ **Fun fact:** I actually enjoy solving complex probability and mathematical optimization problems in my free time!
 
 ## 💻 Tech Stack
-**Languages & Fundamentals**
+**Frontend & Languages**
 <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Data & Machine Learning**
+**Data & Artificial Intelligence**
 <br>
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 
 **Tools & Others**
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/sai-jwalitha-bellagubba-78679b34a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/>
 
